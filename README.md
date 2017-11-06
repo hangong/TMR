@@ -7,6 +7,8 @@ J = TMR(I_s, It, 5) // I_s and I_t are the inputs.
 
 See Demo.m for the usage.
 
+Copyright 2017 Han Gong <gong@fedoraproject.org>, University of East Anglia
+
 ## Input 
 ![source image](https://github.com/hangong/Colour_Transfer_deNoise/blob/master/org.jpg?raw=true)
 
